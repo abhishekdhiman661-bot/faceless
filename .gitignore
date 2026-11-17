@@ -1,0 +1,4 @@
+review/
+renders/
+*.tmp
+.DS_Store

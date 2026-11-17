@@ -1,0 +1,28 @@
+{
+  "title": "What Happens If You Don't Sleep For 7 Days?",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "lead": 0.35,
+  "outro": 1.0,
+  "gap": 0.25,
+  "music": "tension",
+  "sources": [
+    "Harvard Medical School, Division of Sleep Medicine (Sleep deprivation cognitive deficits)",
+    "NIH / Science (Glymphatic waste clearance during deep sleep)",
+    "CDC (Sleep loss effects on reaction time and immune system)"
+  ],
+  "lines": [
+    { "text": "What would actually happen to your body if you didn't sleep for seven whole days?", "caps": "What happens | if you *don't sleep | for *seven days?" },
+    { "text": "Well, after twenty-four hours without sleep,", "caps": "After *24 hours | without *sleep," },
+    { "text": "your brain performs like you're legally drunk,", "caps": "your *brain | is legally *drunk," },
+    { "text": "as your reaction time slows down by nearly fifty percent.", "caps": "reaction time | slows down *50%" },
+    { "text": "By day two, your body begins forcing microsleeps,", "caps": "By *day two, | *microsleeps begin," },
+    { "text": "brief lapses where your brain literally shuts off for seconds while your eyes are still wide open.", "caps": "brain *shuts off | while eyes stay *open." },
+    { "text": "By day three, toxic waste proteins build up inside your head,", "caps": "Day *three, | *toxic waste builds," },
+    { "text": "because your brain can only flush toxins while you're deeply asleep.", "caps": "brain flushes toxins | *only in deep sleep." },
+    { "text": "By day five, intense hallucinations kick in,", "caps": "Day *five, | *hallucinations kick in," },
+    { "text": "as dream states bleed directly into your waking reality.", "caps": "*dreams bleed | into waking *reality." },
+    { "text": "And by day seven, your immune system crashes,", "caps": "Day *seven, | immune system *crashes," },
+    { "text": "and your body simply collapses from exhaustion.", "caps": "until your body | *collapses." }
+  ]
+}
