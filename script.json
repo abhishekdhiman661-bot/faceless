@@ -1,0 +1,32 @@
+{
+  "title": "The Man Who Mailed Himself Home",
+  "voice": "am_michael",
+  "speed": 1.1,
+  "lead": 0.25,
+  "outro": 0.9,
+  "gap": 0.16,
+  "music": "bounce",
+  "sources": [
+    "BBC News, 'The man who mailed himself out of London in a box' (1964; Reg Spiers was stranded in London, built a 5x3x2.5 ft crate labelled paint, and shipped himself air cargo cash-on-delivery to Perth)",
+    "National Archives of Australia: cargo manifests and records of Reg Spiers shipment from London to Western Australia in October 1964"
+  ],
+  "lines": [
+    { "text": "In nineteen sixty-four, an athlete mailed himself home in a wooden box.", "caps": "In 1964, | an athlete | mailed himself | home | in a wooden box." },
+    { "text": "Just to avoid paying for a plane ticket." },
+    { "text": "See, Reg was stranded in London with zero dollars," },
+    { "text": "and a flight back home cost three hundred pounds,", "caps": "and a flight | back home | cost 300 pounds," },
+    { "text": "which he definitely didn't have." },
+    { "text": "So he built a five foot wooden crate,", "caps": "So he built | a 5-foot | wooden crate," },
+    { "text": "labelled it paint," },
+    { "text": "and climbed inside with some canned food and a pillow." },
+    { "text": "He shipped the box cash on delivery," },
+    { "text": "meaning he didn't have to pay a single dime upfront." },
+    { "text": "For sixty-three hours,", "caps": "For 63 hours," },
+    { "text": "he flew across three continents," },
+    { "text": "mostly upside down in freezing cargo holds." },
+    { "text": "When the crate finally touched down in Australia," },
+    { "text": "Reg waited for the handlers to walk away," },
+    { "text": "popped the wooden latch open," },
+    { "text": "and casually strolled right out of the airport.", "gap": 0.25 }
+  ]
+}
