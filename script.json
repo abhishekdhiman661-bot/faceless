@@ -1,0 +1,29 @@
+{
+  "title": "The Bank Robber Who Wore Lemon Juice",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "The New York Times (1996), 'What, Me Worry?' by Errol Morris",
+    "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. Journal of Personality and Social Psychology, 77(6), 1121-1134",
+    "Pittsburgh Post-Gazette (April 1995), police reports on McArthur Wheeler bank robberies"
+  ],
+  "lines": [
+    { "text": "In 1995, a man named McArthur Wheeler robbed two banks in broad daylight", "caps": "In 1995, | a man named | McArthur Wheeler | robbed | two banks | in broad daylight" },
+    { "text": "without wearing a mask." },
+    { "text": "In fact, he smiled straight into the security cameras." },
+    { "text": "See, McArthur knew that lemon juice can be used as invisible ink." },
+    { "text": "So he figured, if lemon juice makes ink invisible," },
+    { "text": "rubbing it all over his face would make HIM invisible to cameras." },
+    { "text": "He even tested it with a Polaroid camera first." },
+    { "text": "He snapped a photo, but accidentally aimed at the ceiling," },
+    { "text": "saw nothing on the film, and said: It works!" },
+    { "text": "An hour later, police arrested him at his house." },
+    { "text": "He was genuinely shocked, crying out: But I wore the juice!" },
+    { "text": "This true story inspired scientists to discover the Dunning-Kruger effect:" },
+    { "text": "the less you know, the more confident you are.", "gap": 0.3 }
+  ]
+}
