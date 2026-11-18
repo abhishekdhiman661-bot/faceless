@@ -1,0 +1,29 @@
+{
+  "title": "The Craziest Race In History: 1904 Olympic Marathon",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "Smithsonian Magazine (2012), 'The 1904 Olympic Marathon May Have Been the Strangest Ever'",
+    "Runner's World (2021), 'The Wild, Toxic, Hilarious 1904 Olympic Marathon'",
+    "Olympics.com Official Archives, St. Louis 1904 Marathon"
+  ],
+  "lines": [
+    { "text": "The 1904 Olympic marathon was the most chaotic sporting event in human history.", "caps": "The 1904 | Olympic marathon | was the most chaotic | event in history." },
+    { "text": "Out of thirty-two runners, only fourteen finished alive." },
+    { "text": "The temperature was ninety degrees, on dirt roads covered in choking dust." },
+    { "text": "The guy who crossed the finish line first?" },
+    { "text": "He quit at mile nine, hitched an eleven-mile ride in a car, and trotted across the line as a joke." },
+    { "text": "The actual gold medalist was fed raw rat poison and brandy by his trainers," },
+    { "text": "hallucinating wildly as two men dragged his limp legs across the finish." },
+    { "text": "A Cuban mailman showed up with no money, wearing heavy street boots and trousers." },
+    { "text": "He stopped at an orchard, ate rotten apples, took an hour-long nap on the grass," },
+    { "text": "and still finished in fourth place!" },
+    { "text": "Another runner was chased an entire mile off-course by a pack of wild feral dogs." },
+    { "text": "Against all odds, he still finished ninth!" },
+    { "text": "Organizers were so horrified they nearly banned the marathon forever.", "gap": 0.3 }
+  ]
+}

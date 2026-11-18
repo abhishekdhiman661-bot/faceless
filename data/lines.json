@@ -1,0 +1,85 @@
+{
+ "duration": 59.501,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "The 1904 Olympic marathon was the most chaotic sporting event in human history.",
+   "start": 0.3,
+   "end": 6.227
+  },
+  {
+   "i": 1,
+   "text": "Out of thirty-two runners, only fourteen finished alive.",
+   "start": 6.407,
+   "end": 9.728
+  },
+  {
+   "i": 2,
+   "text": "The temperature was ninety degrees, on dirt roads covered in choking dust.",
+   "start": 9.908,
+   "end": 14.511
+  },
+  {
+   "i": 3,
+   "text": "The guy who crossed the finish line first?",
+   "start": 14.691,
+   "end": 16.839
+  },
+  {
+   "i": 4,
+   "text": "He quit at mile nine, hitched an eleven-mile ride in a car, and trotted across the line as a joke.",
+   "start": 17.019,
+   "end": 23.281
+  },
+  {
+   "i": 5,
+   "text": "The actual gold medalist was fed raw rat poison and brandy by his trainers,",
+   "start": 23.461,
+   "end": 28.451
+  },
+  {
+   "i": 6,
+   "text": "hallucinating wildly as two men dragged his limp legs across the finish.",
+   "start": 28.931,
+   "end": 33.794
+  },
+  {
+   "i": 7,
+   "text": "A Cuban mailman showed up with no money, wearing heavy street boots and trousers.",
+   "start": 33.974,
+   "end": 38.757
+  },
+  {
+   "i": 8,
+   "text": "He stopped at an orchard, ate rotten apples, took an hour-long nap on the grass,",
+   "start": 38.937,
+   "end": 43.834
+  },
+  {
+   "i": 9,
+   "text": "and still finished in fourth place!",
+   "start": 43.834,
+   "end": 45.605
+  },
+  {
+   "i": 10,
+   "text": "Another runner was chased an entire mile off-course by a pack of wild feral dogs.",
+   "start": 45.785,
+   "end": 51.143
+  },
+  {
+   "i": 11,
+   "text": "Against all odds, he still finished ninth!",
+   "start": 51.323,
+   "end": 53.561
+  },
+  {
+   "i": 12,
+   "text": "Organizers were so horrified they nearly banned the marathon forever.",
+   "start": 53.741,
+   "end": 58.001
+  }
+ ]
+}
