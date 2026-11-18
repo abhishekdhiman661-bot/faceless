@@ -1,0 +1,26 @@
+{
+  "title": "The Day Boston Was Flooded By 2 Million Gallons Of Syrup",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "Stephen Puleo (2003), 'Dark Tide: The Great Boston Molasses Flood of 1919'",
+    "Smithsonian Magazine (2019), 'The Science of the Great Molasses Flood'",
+    "Boston Public Library Archives, 1919 Molasses Disaster"
+  ],
+  "lines": [
+    { "text": "In 1919, Boston was hit by a disaster that sounds completely made up.", "caps": "In 1919, | Boston was hit | by a disaster that | sounds made up." },
+    { "text": "A giant steel tank holding over two million gallons of molasses suddenly exploded." },
+    { "text": "It unleashed a twenty-five-foot tidal wave of thick brown syrup" },
+    { "text": "racing through city streets at thirty-five miles per hour!" },
+    { "text": "The sticky tsunami destroyed buildings and lifted a train right off its tracks," },
+    { "text": "trapping terrified pedestrians in warm gooey syrup." },
+    { "text": "Rescue workers had to wade through waist-deep molasses," },
+    { "text": "and millions of gallons of saltwater were pumped just to scrub the streets." },
+    { "text": "For decades afterward, locals swore that on hot summer days," },
+    { "text": "the entire city of Boston still smelled like sweet molasses!", "gap": 0.3 }
+  ]
+}

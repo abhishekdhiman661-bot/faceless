@@ -1,0 +1,67 @@
+{
+ "duration": 45.604,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In 1919, Boston was hit by a disaster that sounds completely made up.",
+   "start": 0.3,
+   "end": 5.815
+  },
+  {
+   "i": 1,
+   "text": "A giant steel tank holding over two million gallons of molasses suddenly exploded.",
+   "start": 5.995,
+   "end": 11.273
+  },
+  {
+   "i": 2,
+   "text": "It unleashed a twenty-five-foot tidal wave of thick brown syrup",
+   "start": 11.453,
+   "end": 15.503
+  },
+  {
+   "i": 3,
+   "text": "racing through city streets at thirty-five miles per hour!",
+   "start": 16.003,
+   "end": 19.309
+  },
+  {
+   "i": 4,
+   "text": "The sticky tsunami destroyed buildings and lifted a train right off its tracks,",
+   "start": 19.489,
+   "end": 24.159
+  },
+  {
+   "i": 5,
+   "text": "trapping terrified pedestrians in warm gooey syrup.",
+   "start": 24.599,
+   "end": 27.84
+  },
+  {
+   "i": 6,
+   "text": "Rescue workers had to wade through waist-deep molasses,",
+   "start": 28.02,
+   "end": 31.22
+  },
+  {
+   "i": 7,
+   "text": "and millions of gallons of saltwater were pumped just to scrub the streets.",
+   "start": 31.79,
+   "end": 35.82
+  },
+  {
+   "i": 8,
+   "text": "For decades afterward, locals swore that on hot summer days,",
+   "start": 36.0,
+   "end": 39.79
+  },
+  {
+   "i": 9,
+   "text": "the entire city of Boston still smelled like sweet molasses!",
+   "start": 40.24,
+   "end": 44.104
+  }
+ ]
+}
