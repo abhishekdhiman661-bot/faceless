@@ -1,0 +1,28 @@
+{
+  "title": "The Stork That Solved Migration With A Spear In Its Neck",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "University of Rostock Zoological Collection (1822), 'The Pfeilstorch'",
+    "Audubon Society (2020), 'How a Stork With a Spear in Its Neck Solved Bird Migration'",
+    "Atlas Obscura, 'The Rostock Pfeilstorch'"
+  ],
+  "lines": [
+    { "text": "Until 1822, Europeans had no idea where birds went in the winter.", "caps": "Until 1822, | Europeans had no idea | where birds went | in the winter." },
+    { "text": "Famous scientists genuinely believed birds buried themselves in mud or turned into mice." },
+    { "text": "Then, one spring day in Germany..." },
+    { "text": "a white stork landed with a thirty-inch wooden spear pierced straight through its neck." },
+    { "text": "The bird was completely fine, strutting around like nothing happened." },
+    { "text": "When scientists inspected the weapon, they discovered it was carved from African wood" },
+    { "text": "and used exclusively by hunters in Central Africa." },
+    { "text": "That meant this single stubborn bird had flown over three thousand miles" },
+    { "text": "across the Sahara Desert and Mediterranean Sea..." },
+    { "text": "with a giant spear stuck all the way through its body!" },
+    { "text": "It single-handedly solved the mystery of seasonal bird migration," },
+    { "text": "and today, the famous Pfeilstorch is still preserved in a German museum!", "gap": 0.3 }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+ "duration": 53.485,
+ "cues": [
+  {
+   "t": 0,
+   "type": "whoosh"
+  },
+  {
+   "t": 0.3,
+   "type": "chug",
+   "gain": 0.4
+  },
+  {
+   "t": 6.474,
+   "type": "whoosh"
+  },
+  {
+   "t": 6.624,
+   "type": "boing",
+   "gain": 0.6
+  },
+  {
+   "t": 12.746,
+   "type": "whoosh"
+  },
+  {
+   "t": 12.846,
+   "type": "ding",
+   "gain": 0.5
+  },
+  {
+   "t": 14.852,
+   "type": "whoosh"
+  },
+  {
+   "t": 15.052,
+   "type": "pop"
+  },
+  {
+   "t": 15.252,
+   "type": "boing",
+   "gain": 0.7
+  },
+  {
+   "t": 19.598,
+   "type": "whoosh"
+  },
+  {
+   "t": 19.748,
+   "type": "ding",
+   "gain": 0.6
+  },
+  {
+   "t": 23.734,
+   "type": "whoosh"
+  },
+  {
+   "t": 23.934,
+   "type": "ding",
+   "gain": 0.7
+  },
+  {
+   "t": 29.204,
+   "type": "whoosh"
+  },
+  {
+   "t": 29.304,
+   "type": "pop"
+  },
+  {
+   "t": 32.611,
+   "type": "whoosh"
+  },
+  {
+   "t": 32.811,
+   "type": "chug",
+   "gain": 0.6
+  },
+  {
+   "t": 36.921,
+   "type": "whoosh"
+  },
+  {
+   "t": 37.121,
+   "type": "ding",
+   "gain": 0.5
+  },
+  {
+   "t": 40.046,
+   "type": "whoosh"
+  },
+  {
+   "t": 40.196,
+   "type": "boing",
+   "gain": 0.7
+  },
+  {
+   "t": 42.946,
+   "type": "whoosh"
+  },
+  {
+   "t": 43.146,
+   "type": "ding",
+   "gain": 0.8
+  },
+  {
+   "t": 47.276,
+   "type": "whoosh"
+  },
+  {
+   "t": 47.376,
+   "type": "boing",
+   "gain": 0.7
+  },
+  {
+   "t": 47.676,
+   "type": "ding",
+   "gain": 0.9
+  }
+ ]
+}

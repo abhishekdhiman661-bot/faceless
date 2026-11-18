@@ -1,0 +1,79 @@
+{
+ "duration": 53.485,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Until 1822, Europeans had no idea where birds went in the winter.",
+   "start": 0.3,
+   "end": 6.354
+  },
+  {
+   "i": 1,
+   "text": "Famous scientists genuinely believed birds buried themselves in mud or turned into mice.",
+   "start": 6.534,
+   "end": 12.626
+  },
+  {
+   "i": 2,
+   "text": "Then, one spring day in Germany...",
+   "start": 12.806,
+   "end": 14.732
+  },
+  {
+   "i": 3,
+   "text": "a white stork landed with a thirty-inch wooden spear pierced straight through its neck.",
+   "start": 14.912,
+   "end": 19.478
+  },
+  {
+   "i": 4,
+   "text": "The bird was completely fine, strutting around like nothing happened.",
+   "start": 19.658,
+   "end": 23.614
+  },
+  {
+   "i": 5,
+   "text": "When scientists inspected the weapon, they discovered it was carved from African wood",
+   "start": 23.794,
+   "end": 28.834
+  },
+  {
+   "i": 6,
+   "text": "and used exclusively by hunters in Central Africa.",
+   "start": 29.264,
+   "end": 32.491
+  },
+  {
+   "i": 7,
+   "text": "That meant this single stubborn bird had flown over three thousand miles",
+   "start": 32.671,
+   "end": 36.921
+  },
+  {
+   "i": 8,
+   "text": "across the Sahara Desert and Mediterranean Sea...",
+   "start": 36.981,
+   "end": 39.926
+  },
+  {
+   "i": 9,
+   "text": "with a giant spear stuck all the way through its body!",
+   "start": 40.106,
+   "end": 42.826
+  },
+  {
+   "i": 10,
+   "text": "It single-handedly solved the mystery of seasonal bird migration,",
+   "start": 43.006,
+   "end": 46.786
+  },
+  {
+   "i": 11,
+   "text": "and today, the famous Pfeilstorch is still preserved in a German museum!",
+   "start": 47.336,
+   "end": 51.985
+  }
+ ]
+}
