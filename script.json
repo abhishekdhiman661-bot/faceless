@@ -1,0 +1,29 @@
+{
+  "title": "The Con Artist Who Sold The Eiffel Tower Twice",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "Smithsonian Magazine (2012), 'The Man Who Sold the Eiffel Tower. Twice.'",
+    "History.com (2018), 'How a Con Artist Sold the Eiffel Tower'",
+    "The New York Times (1947), obituary of 'Count' Victor Lustig"
+  ],
+  "lines": [
+    { "text": "In 1925, a smooth-talking con artist named Victor Lustig", "caps": "In 1925, | a smooth-talking | con artist named | Victor Lustig" },
+    { "text": "sold the Eiffel Tower for scrap metal." },
+    { "text": "And then, a month later... he sold it again." },
+    { "text": "See, Paris was struggling with the tower's massive repair bills," },
+    { "text": "so Victor forged fake government seals" },
+    { "text": "and invited the city's top scrap dealers to a luxury hotel." },
+    { "text": "He whispered that the city was secretly tearing the tower down," },
+    { "text": "and accepted a massive suitcase of cash from a gullible dealer." },
+    { "text": "Victor hopped the first train to Austria with fifty thousand dollars." },
+    { "text": "The victim was so utterly humiliated" },
+    { "text": "that he never even called the police." },
+    { "text": "So six months later, Victor returned to Paris," },
+    { "text": "found another dealer, and tried to sell it a second time!", "gap": 0.3 }
+  ]
+}

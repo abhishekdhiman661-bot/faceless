@@ -1,0 +1,85 @@
+{
+ "duration": 45.535,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In 1925, a smooth-talking con artist named Victor Lustig",
+   "start": 0.3,
+   "end": 5.22
+  },
+  {
+   "i": 1,
+   "text": "sold the Eiffel Tower for scrap metal.",
+   "start": 5.63,
+   "end": 7.976
+  },
+  {
+   "i": 2,
+   "text": "And then, a month later... he sold it again.",
+   "start": 8.156,
+   "end": 10.577
+  },
+  {
+   "i": 3,
+   "text": "See, Paris was struggling with the tower's massive repair bills,",
+   "start": 10.757,
+   "end": 14.397
+  },
+  {
+   "i": 4,
+   "text": "so Victor forged fake government seals",
+   "start": 14.867,
+   "end": 17.207
+  },
+  {
+   "i": 5,
+   "text": "and invited the city's top scrap dealers to a luxury hotel.",
+   "start": 17.577,
+   "end": 21.283
+  },
+  {
+   "i": 6,
+   "text": "He whispered that the city was secretly tearing the tower down,",
+   "start": 21.463,
+   "end": 24.613
+  },
+  {
+   "i": 7,
+   "text": "and accepted a massive suitcase of cash from a gullible dealer.",
+   "start": 25.203,
+   "end": 28.745
+  },
+  {
+   "i": 8,
+   "text": "Victor hopped the first train to Austria with fifty thousand dollars.",
+   "start": 28.925,
+   "end": 32.782
+  },
+  {
+   "i": 9,
+   "text": "The victim was so utterly humiliated",
+   "start": 32.962,
+   "end": 35.242
+  },
+  {
+   "i": 10,
+   "text": "that he never even called the police.",
+   "start": 35.632,
+   "end": 37.462
+  },
+  {
+   "i": 11,
+   "text": "So six months later, Victor returned to Paris,",
+   "start": 37.642,
+   "end": 40.542
+  },
+  {
+   "i": 12,
+   "text": "found another dealer, and tried to sell it a second time!",
+   "start": 40.932,
+   "end": 44.035
+  }
+ ]
+}
