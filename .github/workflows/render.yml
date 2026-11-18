@@ -1,0 +1,45 @@
+name: Render Tall Tale 3D Video
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+
+      - name: Render 1080p Video on Cloud GPU
+        run: |
+          node tools/capture.mjs video renders/emu-war-1932.mp4
+
+      - name: Upload Video Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: emu-war-video
+          path: renders/emu-war-1932.mp4
+
+      - name: Publish Direct Release Link
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v5.0.0
+          name: "Tall Tale 3D: The Time Australia Lost A War To Giant Birds"
+          files: renders/emu-war-1932.mp4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

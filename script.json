@@ -1,0 +1,29 @@
+{
+  "title": "The Time Australia Lost A War To Giant Birds",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "Australian War Memorial (1932), 'The Great Emu War'",
+    "Scientific American (2014), 'The Great Emu War of 1932'",
+    "The Sunday Herald (1953), 'Looking Back: The Emu War'"
+  ],
+  "lines": [
+    { "text": "In 1932, the Australian military went to war", "caps": "In 1932, | the Australian military | went to war" },
+    { "text": "against an army of twenty thousand giant birds." },
+    { "text": "And the birds won." },
+    { "text": "See, thousands of migrating emus invaded wheat farms, eating everything in sight." },
+    { "text": "So the government sent soldiers armed with heavy machine guns and ten thousand rounds of ammo." },
+    { "text": "They expected an easy victory." },
+    { "text": "Instead, the emus deployed flawless guerrilla warfare tactics." },
+    { "text": "When soldiers opened fire, the emus split into small sprint squads in every direction." },
+    { "text": "Desperate, the troops mounted a machine gun onto a speeding truck," },
+    { "text": "but the terrain was so bumpy the gunner couldn't land a single shot!" },
+    { "text": "After wasting thousands of bullets with almost zero effect," },
+    { "text": "the humiliated army officially ordered a full retreat," },
+    { "text": "leaving the emus completely victorious!", "gap": 0.3 }
+  ]
+}
