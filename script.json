@@ -1,0 +1,28 @@
+{
+  "title": "The World's Luckiest Idiot: Timothy Dexter",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "Newburyport Historical Society, 'The Extraordinary Life of Lord Timothy Dexter'",
+    "Smithsonian Magazine (2018), 'The Eccentric Timothy Dexter'",
+    "Timothy Dexter (1802), 'A Pickle for the Knowing Ones'"
+  ],
+  "lines": [
+    { "text": "In 1789, a barely literate man named Timothy Dexter became the world's luckiest idiot.", "caps": "In 1789, | a barely literate man | became the world's | luckiest idiot." },
+    { "text": "His wealthy rivals constantly tricked him into awful business investments to bankrupt him." },
+    { "text": "First, they told him to ship heavy bed-warming pans to the tropical Caribbean." },
+    { "text": "Dexter did it." },
+    { "text": "Plantations bought the pans as giant molasses ladles, making Dexter a massive fortune!" },
+    { "text": "Next, rivals told him to ship thousands of stray alley cats to the islands." },
+    { "text": "A sudden rat plague hit, and locals eagerly bought every single cat!" },
+    { "text": "Furious, rivals told him to ship coal to Newcastle—the coal-mining capital of England." },
+    { "text": "He arrived during an unexpected miners' strike and sold it for double the profit!" },
+    { "text": "He finally published a book with zero punctuation marks," },
+    { "text": "adding a whole page of commas and periods at the back," },
+    { "text": "telling angry readers to 'salt and pepper the words as you please!'", "gap": 0.3 }
+  ]
+}
