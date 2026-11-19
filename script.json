@@ -1,0 +1,26 @@
+{
+  "title": "The Town That Literally Danced Itself To Death",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "John Waller (2008), 'A Time to Dance, a Time to Die: The Extraordinary Story of the Dancing Plague of 1518'",
+    "The Lancet (2009), 'A forgotten plague: making sense of dancing mania'",
+    "BBC News (2018), 'The mysterious 1518 dancing plague'"
+  ],
+  "lines": [
+    { "text": "In 1518, an entire city caught a sickness that made them dance until they collapsed.", "caps": "In 1518, | an entire city | caught a sickness | that made them dance." },
+    { "text": "It started when one woman stepped into the street and began dancing uncontrollably." },
+    { "text": "She couldn't stop." },
+    { "text": "Within thirty days, over four hundred citizens joined her, dancing frantically day and night." },
+    { "text": "Terrified local doctors concluded that the only cure was... even more dancing!" },
+    { "text": "So the city council built wooden stages, hired professional musicians, and ordered them to play non-stop." },
+    { "text": "This backfired completely, causing hundreds more people to join the feverish dance party!" },
+    { "text": "Dancers had bloody feet and pure exhaustion, yet their bodies kept moving for weeks," },
+    { "text": "before the mysterious trance suddenly vanished as strangely as it began," },
+    { "text": "leaving historians still baffled five hundred years later!", "gap": 0.3 }
+  ]
+}
